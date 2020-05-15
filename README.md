@@ -4,6 +4,11 @@
 
 Office hour is an one hour virtual meet-up of DIU CPCian. Anyone can ask their questions, submit any idea, talk about problems and solution every week.
 
+## Next Office Hour
+|----------|----|
+| :date: |  22 May 2020  |
+| :watch: | 9:00 PM |
+
 ## How to Join
 
 You have to follow some simple steps to join.
