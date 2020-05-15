@@ -8,7 +8,7 @@ Office hour is an one hour virtual meet-up of DIU CPCian. Anyone can ask their q
 | Next Office Hour  |        |
 |----------|---------------|
 | :date:   |  22 May 2020  |
-| :watch:  |  9:00 PM      |
+| :watch:  |  2:30 PM      |
 
 ## How to Join
 
