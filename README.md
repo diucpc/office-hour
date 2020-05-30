@@ -4,23 +4,19 @@
 
 Office hour is an one hour virtual meet-up of DIU CPCian. Anyone can ask their questions, submit any idea, talk about problems and solution every week.
 
-
 | Next Office Hour  |        |
-|----------|---------------|
-| :date:   |  22 May 2020  |
-| :watch:  |  2:30 PM      |
+|----------|-----------------|
+| :date:   |  01 June 2020   |
+| :watch:  |  9:00 PM        |
 
 ## How to Join
 
-You have to follow some simple steps to join.
+- Click [here](https://us04web.zoom.us/j/75753530491?pwd=ZFRIOVNzelNuWTI0bzZvcVo0ZFcwdz09) and you are set.
 
-1. You must registered via [this form](https://forms.gle/1hMo5yojACjuCnHr9) to get meeting link
-2. Join by the meeting link in time.
-3. After joining meeting you will get another form. If you want to say/ask anything, you must fill the form.
-4. Our experts and experienced persons will answer those questions.
-5. If you have any proposal, we will hear you carefully.
+## In case if you need id and pass
 
-So, dont miss the chance.
+- Meeting ID: 757 5353 0491
+- Password: !!diu-cpc
 
 ## Honorable Guests
 
